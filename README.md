@@ -15,17 +15,22 @@
 
   <br /><br />
 
-  <a href="#-português">🇧🇷 Português</a> &nbsp;•&nbsp; <a href="#-english">🇺🇸 English</a>
-
 </div>
 
 <br />
 
 ---
 
-## 🇧🇷 Português
+<!--
+  Aqui usamos <details>/<summary>, que é nativo do Markdown do GitHub:
+  funciona como um "sanfona" de verdade (clica e abre/fecha), diferente
+  de link de âncora (que só dá scroll na página).
+  This uses native GitHub-flavored Markdown <details>/<summary>: a real
+  expand/collapse toggle, unlike anchor links (which just scroll).
+-->
 
-### ⚡ Sobre mim
+<details open>
+<summary><h3>🇧🇷 Sobre mim</h3></summary>
 
 Desenvolvedor de software com foco estratégico na convergência entre **desenvolvimento backend, integrações de sistemas, automação de processos e ciência de dados**. Foco total em resolver problemas práticos: eliminar trabalho manual repetitivo, conectar ecossistemas de APIs e transformar dados em soluções reais e escaláveis.
 
@@ -36,15 +41,10 @@ Desenvolvedor de software com foco estratégico na convergência entre **desenvo
 * ⚙️ **Automação & Orquestração:** Fluxos corporativos com **n8n, Make, Zapier, Power Automate e Google Apps Script**.
 * 🧠 **Domínios de Estudo:** Inteligência Artificial aplicada, microsserviços, modelagem estatística preditiva e otimização de sistemas.
 
-<br />
+</details>
 
-<div align="right"><a href="#-english">⤴ Ir para versão em inglês</a></div>
-
----
-
-## 🇺🇸 English
-
-### ⚡ About me
+<details>
+<summary><h3>🇺🇸 About me</h3></summary>
 
 Software developer strategically focused on the convergence of **backend development, systems integration, process automation, and data science**. Fully focused on solving practical problems: eliminating repetitive manual work, connecting API ecosystems, and turning data into real, scalable solutions.
 
@@ -55,9 +55,9 @@ Software developer strategically focused on the convergence of **backend develop
 * ⚙️ **Automation & Orchestration:** Enterprise workflows with **n8n, Make, Zapier, Power Automate, and Google Apps Script**.
 * 🧠 **Fields of Study:** Applied AI, microservices, predictive statistical modeling, and systems optimization.
 
-<br />
+</details>
 
-<div align="right"><a href="#-português">⤴ Back to Portuguese version</a></div>
+<br />
 
 ---
 
@@ -151,6 +151,35 @@ Software developer strategically focused on the convergence of **backend develop
 <br />
 
 <div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrualuiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9" alt="Top Linguagens" />
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- Trophy: badges visuais de conquistas (commits, PRs, stars, etc) -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arrualuiz&theme=algolia&no-frills=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+
+  <!--
+    Calendário isométrico de commits, gerado pelo projeto lowlighter/metrics.
+    Essa é a versão de demonstração pública; para atualização garantida e
+    sem limite de uso, o ideal é rodar como GitHub Action no seu próprio repo.
+    Isometric commit calendar, from the lowlighter/metrics project. This is
+    the public demo instance; for guaranteed refresh and no usage limits,
+    self-host it as a GitHub Action in your own repo.
+  -->
+  <img width="100%" src="https://metrics.lecoq.io/arrualuiz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America/Sao_Paulo" alt="Calendário Isométrico de Commits" />
+</div>
+
+<br />
+
+<div align="center">
 
   <!--
     ⚠️ Para a cobrinha animada abaixo funcionar, crie um GitHub Action no seu
@@ -176,43 +205,6 @@ Software developer strategically focused on the convergence of **backend develop
 | 📊 **PUCPR Machine Learning** | Exploração de dados, seleção de atributos e treinamento de modelos de aprendizado de máquina. / Data exploration, feature selection, and machine learning model training. | `Python` `Scikit-Learn` `Pandas` | [Repositório ↗](https://github.com/arrualuiz/PUCPRMachineLearning) |
 | 🌐 **Dev-LuizArrua-New** | Meu site pessoal de facilidades, reunindo utilitários e atalhos de produtividade. / My personal "utilities" site, bringing together tools and productivity shortcuts. | `HTML` `CSS` `JavaScript` | [Repositório ↗](https://github.com/arrualuiz/Dev-LuizArrua-New) |
 | ⚡ **01-DEV** | Projeto pessoal ativo em constante evolução. / Active personal project under continuous development. | `JavaScript` | [Repositório ↗](https://github.com/arrualuiz/01-DEV) |
-
-<br />
-
----
-
-### 🤝 Pessoas que trabalharam comigo / People I've worked with
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/eduardoblasczak">
-          <img src="https://github.com/eduardoblasczak.png?size=100" width="80" style="border-radius:50%" /><br />
-          <sub><b>Eduardo Blasczak</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/gabsfranca">
-          <img src="https://github.com/gabsfranca.png?size=100" width="80" style="border-radius:50%" /><br />
-          <sub><b>Gabriel França</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/GusGgk">
-          <img src="https://github.com/GusGgk.png?size=100" width="80" style="border-radius:50%" /><br />
-          <sub><b>Gustavo Giacoia Kumagai</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Tuttao">
-          <img src="https://github.com/Tuttao.png?size=100" width="80" style="border-radius:50%" /><br />
-          <sub><b>Bruno França</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br />
 
