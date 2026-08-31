@@ -1,241 +1,47 @@
-<div align="center">
+# LUIZ ARRUA
 
-  <img src="matrix_banner.gif" width="100%" alt="LUIZ ARRUA - MATRIX DIGITAL RAIN" />
+### ⚡ SOBRE MIM
 
-  <br />
+Programador com atuação em soluções conversacionais, integrações via API e automação de processos. Direciono minha carreira para Análise de Dados e Business Intelligence, unindo visão técnica com entendimento operacional — construído em anos de suporte técnico, gestão de inventário e liderança de equipe.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Desenvolvedor+Backend;Automation+%26+Integrations+%7C+Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%B5es;Data+Science+Enthusiast+%7C+Entusiasta+de+Dados" alt="Typing SVG" />
-  </a>
+Gosto de resolver problemas práticos: eliminar trabalho manual repetitivo, conectar sistemas via API e transformar dados em decisões.
 
-  <br /><br />
+**🎓 Formação:**
+- Análise e Desenvolvimento de Sistemas — PUCPR (cursando)
+- Estatística e Ciência de Dados — UFPR (cursando)
 
-  <img src="https://komarev.com/ghpvc/?username=arrualuiz&color=00ff66&style=flat-square&label=PROFILE+VIEWS" alt="Visualizações do Perfil" />
-  <img src="https://img.shields.io/github/followers/arrualuiz?style=flat-square&color=00ff66&label=FOLLOWERS&logo=github" alt="Seguidores no GitHub" />
+**💼 Atuação atual (Zenvia):** desenvolvimento de soluções conversacionais, integrações via APIs REST e Webhooks, tratamento de dados em JSON, testes com Postman.
 
-  <br /><br />
-
-</div>
-
-<br />
+**📊 Base construída na VorpTech:** automações com Python + SQL + Power BI, gestão de inventário técnico, liderança de equipe de suporte.
 
 ---
 
-<!--
-  Aqui usamos <details>/<summary>, que é nativo do Markdown do GitHub:
-  funciona como um "sanfona" de verdade (clica e abre/fecha), diferente
-  de link de âncora (que só dá scroll na página).
-  This uses native GitHub-flavored Markdown <details>/<summary>: a real
-  expand/collapse toggle, unlike anchor links (which just scroll).
--->
+### 🛠️ STACK TECNOLÓGICA
 
-<details open>
-<summary><h3>🇧🇷 Sobre mim</h3></summary>
+**Uso profissional**
+`JavaScript` `JSON` `APIs REST` `Webhooks` `Postman` `Lógica de programação`
 
-Desenvolvedor de software com foco estratégico na convergência entre **desenvolvimento backend, integrações de sistemas, automação de processos e ciência de dados**. Foco total em resolver problemas práticos: eliminar trabalho manual repetitivo, conectar ecossistemas de APIs e transformar dados em soluções reais e escaláveis.
+**Já utilizei (projetos e trabalho anterior)**
+`Python` `SQL / MySQL` `Power BI` `Excel avançado` `HTML` `CSS` `Vue.js` `Kotlin` `Google Apps Script` `Looker Studio`
 
-* 🎓 **Formação Acadêmica:**
-  * **Análise e Desenvolvimento de Sistemas** — **PUCPR**
-  * **Estatística e Ciência de Dados** — **UFPR**
-* 💼 **Atuação & Prática:** Engenharia de software backend, arquitetura de APIs RESTful, webhooks e pipelines de dados.
-* ⚙️ **Automação & Orquestração:** Fluxos corporativos com **n8n, Make, Zapier, Power Automate e Google Apps Script**.
-* 🧠 **Domínios de Estudo:** Inteligência Artificial aplicada, microsserviços, modelagem estatística preditiva e otimização de sistemas.
-
-</details>
-
-<details>
-<summary><h3>🇺🇸 About me</h3></summary>
-
-Software developer strategically focused on the convergence of **backend development, systems integration, process automation, and data science**. Fully focused on solving practical problems: eliminating repetitive manual work, connecting API ecosystems, and turning data into real, scalable solutions.
-
-* 🎓 **Academic Background:**
-  * **Systems Analysis and Development** — **PUCPR**
-  * **Statistics and Data Science** — **UFPR**
-* 💼 **Experience & Practice:** Backend software engineering, RESTful API architecture, webhooks, and data pipelines.
-* ⚙️ **Automation & Orchestration:** Enterprise workflows with **n8n, Make, Zapier, Power Automate, and Google Apps Script**.
-* 🧠 **Fields of Study:** Applied AI, microservices, predictive statistical modeling, and systems optimization.
-
-</details>
-
-<br />
+**Estudando atualmente**
+`Java (back-end)` `TypeScript` `Estatística e Ciência de Dados` `Scikit-Learn` `Pandas`
 
 ---
 
-<br />
+### 🚀 PROJETOS EM DESTAQUE
 
-<div align="center">
-
-### 🛠️ Stack Tecnológica / Tech Stack
-
-</div>
-
-#### 💻 Backend & Linguagens / Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-<br />
-
-#### ⚡ APIs & Integrações / APIs & Integrations
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-6366F1?style=flat-square)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
-<br />
-
-#### ⚙️ Automação & No-Code / Low-Code / Automation & No-Code / Low-Code
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D28D9?style=flat-square)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<br />
-
-#### 📊 Dados, Estatística & Analytics / Data, Statistics & Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-<br />
-
-#### 🌐 Web & Banco de Dados / Web & Databases
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<br />
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 📊 [PUCPR Machine Learning](https://github.com/arrualuiz/PUCPRMachineLearning) | Exploração de dados, seleção de atributos e treinamento de modelos de ML. | Python, Scikit-Learn, Pandas |
+| ⚡ [Desafio QuiteJá](https://github.com/arrualuiz/desafio-quiteja) | Aplicação frontend dinâmica com foco em usabilidade e performance. | Vue.js, JavaScript, CSS3 |
+| 🤖 [Android Notification Reader](https://github.com/arrualuiz/AndroidNotificationReader) | Leitor de notificações Android. | Kotlin |
+| 🌐 [Site Pessoal](https://github.com/arrualuiz/Dev-LuizArrua-New) | Currículo, sobre e dashboard pessoal. | HTML, CSS, JavaScript |
+| 💰 [Finance Automation](https://github.com/arrualuiz/finance-automation) | Automação relacionada a finanças pessoais. | JavaScript |
 
 ---
 
-### 📈 Dashboards & Métricas / Dashboards & Metrics
+### 📡 CONECTE-SE COMIGO
 
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr style="background: transparent; border: none;">
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrualuiz&theme=github_dark" alt="Perfil Detalhado" />
-      </td>
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrualuiz&theme=github_dark" alt="Estatísticas Gerais" />
-      </td>
-    </tr>
-    <tr style="background: transparent; border: none;">
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrualuiz&theme=github_dark" alt="Linguagens por Repositório" />
-      </td>
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrualuiz&theme=dark&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=00ff66&currStreakLabel=00ff66&sideLabels=00ff66&dates=00ff66&hide_border=true" alt="Streak e Sequência de Commits" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arrualuiz&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area_color=00ff66&title_color=00ff66&area=true&hide_border=true" alt="Atividades Recentes Matrix Verde" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrualuiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9" alt="Top Linguagens" />
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Trophy: badges visuais de conquistas (commits, PRs, stars, etc) -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arrualuiz&theme=algolia&no-frills=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-
-  <!--
-    Calendário isométrico de commits, gerado pelo projeto lowlighter/metrics.
-    Essa é a versão de demonstração pública; para atualização garantida e
-    sem limite de uso, o ideal é rodar como GitHub Action no seu próprio repo.
-    Isometric commit calendar, from the lowlighter/metrics project. This is
-    the public demo instance; for guaranteed refresh and no usage limits,
-    self-host it as a GitHub Action in your own repo.
-  -->
-  <img width="100%" src="https://metrics.lecoq.io/arrualuiz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America/Sao_Paulo" alt="Calendário Isométrico de Commits" />
-</div>
-
-<br />
-
-<div align="center">
-
-  <!--
-    ⚠️ Para a cobrinha animada abaixo funcionar, crie um GitHub Action no seu
-    repositório de perfil (arrualuiz/arrualuiz) usando a action
-    Platane/snk. Ela gera o arquivo game.svg automaticamente a cada commit.
-    ⚠️ For the animated snake below to work, add a GitHub Action to your
-    profile repo (arrualuiz/arrualuiz) using the Platane/snk action.
-    It generates the game.svg file automatically on every commit.
-  -->
-  <img width="100%" src="https://raw.githubusercontent.com/arrualuiz/arrualuiz/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
-</div>
-
-<br />
-
----
-
-### 🚀 Projetos em Destaque / Featured Projects
-
-| Projeto / Project | Descrição / Description | Stack | Acesso / Link |
-| :--- | :--- | :--- | :---: |
-| 🏦 **OpenFinanceAPI** | Integração com ecossistema Open Finance, explorando arquitetura de APIs para compartilhamento seguro de dados bancários. / Integration with the Open Finance ecosystem, exploring API architecture for secure banking data sharing. | `API` `Open Finance` | [Repositório ↗](https://github.com/arrualuiz/OpenFinanceAPI) |
-| 📱 **AndroidNotificationReader** | Aplicação Android leve que intercepta, lê e armazena notificações em um banco de dados local. / Lightweight Android application that intercepts, reads, and stores notifications in a local database. | `Kotlin` `Android` | [Repositório ↗](https://github.com/arrualuiz/AndroidNotificationReader) |
-| 📊 **PUCPR Machine Learning** | Exploração de dados, seleção de atributos e treinamento de modelos de aprendizado de máquina. / Data exploration, feature selection, and machine learning model training. | `Python` `Scikit-Learn` `Pandas` | [Repositório ↗](https://github.com/arrualuiz/PUCPRMachineLearning) |
-| 🌐 **Dev-LuizArrua-New** | Meu site pessoal de facilidades, reunindo utilitários e atalhos de produtividade. / My personal "utilities" site, bringing together tools and productivity shortcuts. | `HTML` `CSS` `JavaScript` | [Repositório ↗](https://github.com/arrualuiz/Dev-LuizArrua-New) |
-| ⚡ **01-DEV** | Projeto pessoal ativo em constante evolução. / Active personal project under continuous development. | `JavaScript` | [Repositório ↗](https://github.com/arrualuiz/01-DEV) |
-
-<br />
-
----
-
-### 📡 Conecte-se comigo / Connect with me
-
-<div align="center">
-
-  <table border="0" style="border: none;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.linkedin.com/in/luizarrua/" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://arrualuiz.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFÓLIO%20ONLINE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="42" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="mailto:luizarrua16@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/ENVIAR%20E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00FF66&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita%21+%7C+Thanks+for+stopping+by%21" alt="Footer Typing SVG" />
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/luizarrua/)
+- [Email](mailto:luizarrua16@gmail.com)
