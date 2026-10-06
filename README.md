@@ -1,145 +1,38 @@
 <div align="center">
 
-  <img src="matrix_banner.gif" width="100%" alt="LUIZ ARRUA - MATRIX DIGITAL RAIN" />
+  <img src="matrix_banner.gif" width="100%" alt="Luiz Arrua" />
 
 </div>
 
-<br />
+## Oi, eu sou o Luiz 👋
 
-### ⚡ SOBRE MIM
+Trabalho com **chatbots e integrações via API** na Zenvia e estou levando minha carreira para **Análise de Dados e Automação**.
 
-Desenvolvedor de software com foco estratégico na convergência entre **desenvolvimento backend, integrações de sistemas, automação de processos e ciência de dados**. Foco total em resolver problemas práticos: eliminar trabalho manual repetitivo, conectar ecossistemas de APIs e transformar dados em soluções reais e escaláveis.
+Antes disso, liderei por 3 anos a equipe de Suporte/Helpdesk da VorpTech. Foi lá que comecei a automatizar com **Python, SQL e Power BI**: cruzei bases de inventário, montei dashboards e acabei com trabalho manual repetitivo. Hoje faço o mesmo nos meus projetos: pego um dado espalhado, coleto automaticamente, guardo o histórico e transformo em algo que dá para ler.
 
-* 🎓 **Formação Acadêmica:**
-  * **Análise e Desenvolvimento de Sistemas** — **PUCPR**
-  * **Estatística e Ciência de Dados** — **UFPR**
-* 💼 **Atuação & Prática:** Engenharia de software backend, arquitetura de APIs RESTful, webhooks e pipelines de dados.
-* ⚙️ **Automação & Orquestração:** Fluxos corporativos com **n8n, Make, Zapier, Power Automate e Google Apps Script**.
-* 🧠 **Domínios de Estudo:** Inteligência Artificial aplicada, microsserviços, modelagem estatística preditiva e otimização de sistemas.
+- 💼 **Zenvia**: fluxos de chatbot em produção, APIs REST, webhooks, JSON, Postman e análise de logs
+- 🎓 **Estatística e Ciência de Dados** (UFPR) e **Análise e Desenvolvimento de Sistemas** (PUCPR)
+- 📍 Curitiba, PR
 
-<br />
+## 🚀 Projetos em destaque
 
-### 🛠️ STACK TECNOLÓGICA
-
-#### 💻 BACKEND & LINGUAGENS
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-<br />
-
-#### ⚡ APIS & INTEGRAÇÕES
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-6366F1?style=flat-square)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
-<br />
-
-#### ⚙️ AUTOMAÇÃO & NO-CODE / LOW-CODE
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D28D9?style=flat-square)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<br />
-
-#### 📊 DADOS, ESTATÍSTICA & ANALYTICS
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-<br />
-
-#### 🌐 WEB & BANCO DE DADOS
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<br />
-
-### 📈 DASHBOARDS & MÉTRICAS DE ENGENHARIA
-
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr style="background: transparent; border: none;">
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrualuiz&theme=github_dark" alt="Perfil Detalhado" />
-      </td>
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrualuiz&theme=github_dark" alt="Estatísticas Gerais" />
-      </td>
-    </tr>
-        <tr style="background: transparent; border: none;">
-      <td colspan="2" align="center" style="border: none; padding: 6px;">
-        <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrualuiz&theme=github_dark" alt="Linguagens por Repositório" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-### 📊 DASHBOARD DE ATIVIDADE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arrualuiz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrualuiz&layout=compact&theme=github_dark&hide_border=true" height="165">
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arrualuiz&theme=github-dark-blue&hide_border=true" width="70%">
-
-</div>
-
-<br />
-
-### 🚀 PROJETOS EM DESTAQUE
-
-| Projeto | Descrição | Tecnologias |
+| Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
-| 💰 [Arrua Financeiro](https://github.com/arrualuiz/21-Arrua-Financeiro) | Organização financeira pessoal com entradas, saídas, investimentos, cartões e indicadores. | TypeScript |
-| 📱 [Android Notification Reader](https://github.com/arrualuiz/11-AndroidNotificationReader) | Aplicativo Android para interceptar e armazenar notificações em banco local. | Kotlin |
-| 🏦 [OpenFinanceAPI](https://github.com/arrualuiz/20-OpenFinanceAPI) | Projeto voltado a dados e soluções para o ecossistema financeiro. | HTML / APIs |
-| 🧰 [Dev Luiz Arrua](https://github.com/arrualuiz/00-Dev-LuizArrua) | Site pessoal com ferramentas, facilidades e recursos de produtividade. | HTML |
-| 🎱 [Sinuca Geométrica](https://github.com/arrualuiz/33-Sinuca-Geometrica) | Simulador interativo de sinuca desenvolvido com JavaScript. | JavaScript |
-<br />
+| 🗳️ [Noite do Primeiro Turno 2026](https://github.com/arrualuiz/noite-do-primeiro-turno-2026) | Coleta a API do TSE durante a apuração, salva o histórico de cada atualização, projeta o resultado por estado e mostra tudo num painel. Inclui 20 análises escritas ao longo da noite. | Python, Node.js |
+| 🏦 [Open Finance → Google Sheets](https://github.com/arrualuiz/openfinance-google-sheets) | Junta saldos, faturas e investimentos de vários bancos numa planilha, via Open Finance (Pluggy), e substitui um app pago. | TypeScript, Express, Google Sheets API |
+| 🏷️ [Monitor de Preços KaBuM](https://github.com/arrualuiz/monitor-precos-kabum) | Coleta preços todos os dias, guarda o histórico, mostra se cada produto subiu ou caiu e tem um painel de saúde da coleta. | Google Apps Script, Sheets |
+| 🔔 [Notifica Arquivo](https://github.com/arrualuiz/notifica-arquivo) | App Android que arquiva notificações e sincroniza com o Sheets. Transforma avisos de compra dos bancos em uma base de gastos por cartão. | Kotlin, Jetpack Compose, Apps Script |
+| 🏀 [Machine Learning NBA](https://github.com/arrualuiz/machine-learning-nba) | Análise exploratória e modelos de ML com estatísticas da NBA (PUCPR). | Python, pandas, scikit-learn |
+| ⚽ [Assistir Jogos](https://github.com/arrualuiz/assistir-jogos-api) | API que monta a lista de jogos de futebol do dia com dados da ESPN e notícias do GE. | Python, FastAPI |
 
-### 📡 CONECTE-SE COMIGO
+## 🛠️ O que eu uso
 
-<div align="center">
+**Dados:** Python (pandas, scikit-learn), SQL/MySQL, Power BI, Excel, Looker Studio<br>
+**Automação e integrações:** APIs REST, webhooks, JSON, Postman, WhatsApp API, n8n, Make, Zapier, Power Automate, Google Apps Script<br>
+**Desenvolvimento:** JavaScript/Node.js, TypeScript, Kotlin, Java, Git
 
-  <table border="0" style="border: none;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://www.linkedin.com/in/luizarrua/" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://arrualuiz.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFÓLIO%20ONLINE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="42" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="mailto:luizarrua16@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/ENVIAR%20E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
-        </a>
-      </td>
-    </tr>
-  </table>
+## 📫 Contato
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizarrua/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://arrualuiz.netlify.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizarrua16@gmail.com)
